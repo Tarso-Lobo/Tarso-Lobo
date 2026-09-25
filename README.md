@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Paulo de Tarso
+# 👋 Paulo de Tarso Rezende Lôbo
 
 🎓 **Computer Science undergraduate** at the **Federal University of Goiás (UFG)**, Brazil.
 
@@ -6,7 +6,7 @@ I build practical software solutions with **AI automation, LLM applications and 
 
 ---
 
-## 🔭 What I'm currently working on
+## 🧭 Current focus
 
 - 🤖 Deepening my knowledge of **AI agents, MCP, tool calling, evaluation and observability**.
 - 🔎 Improving an evidence-driven system for **web research and trend-bulletin generation**.
@@ -32,7 +32,7 @@ The workflow involved:
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Selected work
 
 ### 🔎 [Evidence-Driven Trend Bulletin](https://github.com/Tarso-Lobo/evidence-driven-trend-bulletin)
 
@@ -67,7 +67,7 @@ A Chrome extension concept that analyzes rough prompts and transforms them into 
 
 ---
 
-## 🛠️ Skills & tools
+## 🛠️ Technical toolkit
 
 ### 🤖 Artificial Intelligence & Automation
 
@@ -103,7 +103,7 @@ A Chrome extension concept that analyzes rough prompts and transforms them into 
 
 ---
 
-## 📚 Certifications & training
+## 📚 Learning & certifications
 
 - **AI Agents — AKCIT/UFG ecosystem (40h):** intelligent agents, multi-agent systems, LangChain, LangGraph, CrewAI, LangFlow, memory, deployment, monitoring and evaluation.
 - **NLP & MLOps Workshop — CEIA (30h)**
@@ -112,7 +112,7 @@ A Chrome extension concept that analyzes rough prompts and transforms them into 
 
 ---
 
-## 🌱 Current direction
+## 🌱 Professional direction
 
 I am focused on becoming a stronger **Applied AI Engineer**, connecting sound software engineering with useful AI systems: agents that can be evaluated, observed, controlled and applied to real business workflows.
 
@@ -124,4 +124,4 @@ I am focused on becoming a stronger **Applied AI Engineer**, connecting sound so
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarso-Lobo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulirezendelobo@gmail.com)
 
-### *Sapere aude!* 🚀
+### *Build useful things. Keep learning. Iterate.* 🚀
