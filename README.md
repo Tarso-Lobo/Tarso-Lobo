@@ -11,7 +11,7 @@ I build practical software solutions with **AI automation, LLM applications and 
 - 🤖 Deepening my knowledge of **AI agents, MCP, tool calling, evaluation and observability**.
 - 🔎 Improving an evidence-driven system for **web research and trend-bulletin generation**.
 - 🧠 Exploring multimodal memory systems and contextual AI applications.
-- 📊 Studying how technology and AI can solve concrete problems in business processes.
+- 📊 Developing the ability to translate business problems into practical AI, software and automation solutions.
 
 ---
 
@@ -114,7 +114,7 @@ A Chrome extension concept that analyzes rough prompts and transforms them into 
 
 ## 🌱 Professional direction
 
-I am focused on becoming a stronger **Applied AI Engineer**, connecting sound software engineering with useful AI systems: agents that can be evaluated, observed, controlled and applied to real business workflows.
+I am focused on becoming a stronger **Applied AI Engineer** with a business-oriented perspective: connecting sound software engineering and AI systems to organizational needs, operational processes, products and measurable business outcomes. I am also developing my understanding of business analysis, commercial applications and how technology can create value for companies and their customers.
 
 ---
 
